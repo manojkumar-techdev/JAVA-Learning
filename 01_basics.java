@@ -1,3 +1,4 @@
+//# -- 1
 // hello world
 
 public class Learning {
@@ -5,3 +6,18 @@ public class Learning {
        System.out.println("Hello World");
    }
 }
+
+
+//# -- 2
+// statement in java
+// statement ends with semicolon
+// statement is a line of code with complete meaning
+// a statement ends with semicolon
+
+public class Learning {
+   public static void main(String[] args) {
+       // this is the statement
+       System.out.println("Hello, Manoj");
+   }
+}
+
