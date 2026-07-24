@@ -22,6 +22,7 @@ public class Learning {
 }
 
 
+//# -- 3
 // single code block
 // code enclosed in curly braces is a code in block
 
@@ -33,4 +34,15 @@ public class Learning {
    }
 }
 
+
+//# -- 4
+// single statement
+
+public class Learning {
+   public static void main(String[] args)
+   {
+       // this is a code block
+       System.out.println("Hello, Manoj");
+   }
+}
 
