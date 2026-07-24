@@ -46,3 +46,16 @@ public class Learning {
    }
 }
 
+
+// # -- 5
+// multiple statements
+
+public class Learning {
+   public static void main(String[] args)
+   {
+       // this is a code block
+       System.out.println("Hello, Manoj");
+       System.out.println("How are you?");
+   }
+}
+
