@@ -138,3 +138,30 @@ public class Learning {
        }
    }
 }
+
+
+// # -- 11
+// nested blocks execution
+// always executed in sequence
+
+
+public class Learning {
+   public static void main(String[] args){
+       // block 1
+       {
+           System.out.println("Hello 1");
+       }
+
+
+       // block 2
+       {
+           System.out.println("Hello 2");
+       }
+
+
+       // block 3
+       {
+           System.out.println("Hello 3");
+       }
+   }
+}
