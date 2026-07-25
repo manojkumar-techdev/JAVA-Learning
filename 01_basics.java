@@ -125,3 +125,16 @@ public class Learning {
        System.out.println("Hello");
    }
 }
+
+
+// # -- 10
+// nesting structure
+
+public class Learning {
+   public static void main(String[] args){
+       // nesting example
+       {
+           System.out.println("Hello");
+       }
+   }
+}
