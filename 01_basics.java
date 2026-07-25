@@ -72,14 +72,22 @@ public class Learning {
            System.out.println("First block: " + x);
        }
 
-
        {   // Second block
            int y = 20;
            System.out.println("Second block: " + y);
        }
 
-
        System.out.println("Outside both blocks");
    }
 }
 
+
+// # -- 7
+// class definitions always has to be capital
+// Learning is class Name with capital "L"
+
+public class Learning {
+   public static void main(String[] args) {
+       System.out.println("Outside both blocks");
+   }
+}
