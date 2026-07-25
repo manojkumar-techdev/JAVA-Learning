@@ -115,3 +115,13 @@ public class Learning {
        System.out.println("Hello, my friend");
    }
 }
+
+// # -- 9
+// main method always start with lowercase letter
+// complete method name "main" has to be in lowercase
+
+public class Learning {
+   public static void main(String[] args){
+       System.out.println("Hello");
+   }
+}
