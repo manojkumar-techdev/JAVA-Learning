@@ -91,3 +91,27 @@ public class Learning {
        System.out.println("Outside both blocks");
    }
 }
+
+
+// # -- 8
+// class methods can start with capital or small letter
+// usual convention is lowercase or camelCase
+
+public class Learning {
+   public static void main(String[] args)
+   {
+       System.out.println("Outside both blocks");
+       greet();
+       greetYou();
+   }
+
+   // method with lowercase naming
+   public static void greet(){
+       System.out.println("Hello");
+   }
+
+   // method with lowercase naming
+   public static void greetYou(){
+       System.out.println("Hello, my friend");
+   }
+}
