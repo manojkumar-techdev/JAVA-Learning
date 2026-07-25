@@ -59,3 +59,27 @@ public class Learning {
    }
 }
 
+
+
+// # -- 6
+// multiple code blocks
+
+public class Learning {
+   public static void main(String[] args) {
+  
+       {   // First block
+           int x = 10;
+           System.out.println("First block: " + x);
+       }
+
+
+       {   // Second block
+           int y = 20;
+           System.out.println("Second block: " + y);
+       }
+
+
+       System.out.println("Outside both blocks");
+   }
+}
+
