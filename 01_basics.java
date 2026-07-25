@@ -165,3 +165,17 @@ public class Learning {
        }
    }
 }
+
+
+// # --12 // java is case sensitive
+
+
+public class Learning {
+   public static void main(String[] args){
+       // System is written as "system"
+       // this will throw an error
+       {
+           system.out.println("Hello 1");
+       }
+   }
+}
