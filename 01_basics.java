@@ -265,3 +265,13 @@ public class Learning {
    }
 }
 
+
+// # - 18
+// adding a new line
+
+public class Learning {
+   public static void main(String[] args) {
+       // use println for adding a new line
+       System.out.println("Hello Text");
+   }
+}
