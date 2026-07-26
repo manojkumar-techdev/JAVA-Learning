@@ -193,3 +193,21 @@ public class Learning {
    }
 }
 
+
+// # - 14
+// multi-line comment in java
+
+public class Learning {
+   public static void main(String[] args){
+       /*
+       This is a multi-line comment
+       Comments are not executed
+       Comments improve code readability
+       */
+       {
+           System.out.println("Hello 1");
+       }
+   }
+}
+
+
