@@ -212,8 +212,6 @@ public class Learning {
 
 
 // # - 15
-
-
 // Javadoc comments
 // a special comment used to generate documentation
 
@@ -233,3 +231,24 @@ public class Learning {
 }
 
 
+// # - 16
+// logging user authentication example
+
+public class Learning {
+   public static void main(String[] args) {
+       // Start of user authentication process
+       System.out.println("Starting user authentication...");
+
+
+       // Check if user credentials are valid (placeholder code)
+       System.out.println("Validating user credentials...");
+
+
+       // If valid, grant access
+       System.out.println("Access granted.");
+
+
+       // End of user authentication process
+       System.out.println("User authentication completed.");
+   }
+}
