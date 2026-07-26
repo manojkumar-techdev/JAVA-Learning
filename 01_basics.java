@@ -167,8 +167,8 @@ public class Learning {
 }
 
 
-// # --12 // java is case sensitive
-
+// # --12 
+// java is case sensitive
 
 public class Learning {
    public static void main(String[] args){
@@ -179,3 +179,17 @@ public class Learning {
        }
    }
 }
+
+
+// # - 13
+// single line comment in java
+
+public class Learning {
+   public static void main(String[] args){
+       // This is a single-line comment
+       {
+           System.out.println("Hello 1");
+       }
+   }
+}
+
