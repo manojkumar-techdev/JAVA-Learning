@@ -275,3 +275,15 @@ public class Learning {
        System.out.println("Hello Text");
    }
 }
+
+
+// # - 19
+// stay on the same line
+
+public class Learning {
+   public static void main(String[] args) {
+       // use "System.out.print" for adding anew line
+       System.out.print("Hello Text");
+   }
+}
+
