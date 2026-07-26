@@ -252,3 +252,16 @@ public class Learning {
        System.out.println("User authentication completed.");
    }
 }
+
+
+// # - 17
+// print a text in java
+// use double quotes
+
+public class Learning {
+   public static void main(String[] args) {
+       // text printed in double quotes only
+       System.out.println("Hello Text");
+   }
+}
+
