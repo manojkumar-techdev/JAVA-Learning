@@ -211,3 +211,25 @@ public class Learning {
 }
 
 
+// # - 15
+
+
+// Javadoc comments
+// a special comment used to generate documentation
+
+public class Learning {
+   public static void main(String[] args){
+      
+       // describe class, method or interface
+       /**
+       * This is a multi-line comment
+       * Comments are not executed
+       * Comments improve code readability
+       */
+       {
+           System.out.println("Hello 1");
+       }
+   }
+}
+
+
