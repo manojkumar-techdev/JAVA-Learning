@@ -1,46 +1,4 @@
-//# -- 1
-// hello world
 
-public class Learning {
-   public static void main(String[] args) {
-       System.out.println("Hello World");
-   }
-}
-
-//# -- 1
-// hello world
-
-public class Learning {
-   public static void main(String[] args) {
-       System.out.println("Hello World");
-   }
-}
-
-//# -- 1
-// hello world
-
-public class Learning {
-   public static void main(String[] args) {
-       System.out.println("Hello World");
-   }
-   //# -- 1
-// hello world
-
-public class Learning {
-   public static void main(String[] args) {
-       System.out.println("Hello World");
-   }
-}
-
-}
-//# -- 1
-// hello world
-
-public class Learning {
-   public static void main(String[] args) {
-       System.out.println("Hello World");
-   }
-}
 //# -- 1
 // hello world
 
