@@ -65,3 +65,21 @@ class Codechef {
         scanner.close();
     }
 }
+
+
+
+// read a number and repeating it
+// bad practice 
+import java.util.Scanner;
+
+class Codechef {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        // Prompt the user for a number and repeat it
+        System.out.println("Here is your number again: ");
+        System.out.println(scanner.nextInt());
+
+        scanner.close();
+    }
+}
