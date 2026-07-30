@@ -83,3 +83,19 @@ class Codechef {
         scanner.close();
     }
 }
+
+
+
+// If you're submitting this on CodeChef or another online judge, remove the prompt message 
+// because online judges expect only the required output
+import java.util.Scanner;
+
+class Codechef {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println(scanner.nextInt());
+
+        scanner.close();
+    }
+}
