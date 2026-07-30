@@ -32,7 +32,7 @@ class Codechef {
 
 
 
-// Read the user's input directly and use it in an output statement
+// read the user's input directly and use it in an output statement
 // Importing the Scanner class for user input
 import java.util.Scanner; 
 
@@ -46,6 +46,22 @@ class Codechef {
         System.out.println("Oh, " + scanner.nextInt() + " is a great choice!");
         
         // Close the Scanner to release system resources
+        scanner.close();
+    }
+}
+
+
+
+// store the input in a variable before printing it
+import java.util.Scanner;
+
+class Codechef {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        int number = scanner.nextInt();
+        System.out.println("Here is your number again: " + number);
+
         scanner.close();
     }
 }
