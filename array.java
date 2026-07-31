@@ -89,3 +89,17 @@
    int[] numbers = {10, 20, 30, 40, 50};
 }
 
+
+// print array elements using toString()
+
+{
+   // print array elements
+   // import java.util.Arrays;
+   // recommended
+
+   int[] numbers = {10, 20, 30, 40, 50};
+
+   System.out.println(Arrays.toString(numbers));
+}
+
+
