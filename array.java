@@ -103,3 +103,17 @@
 }
 
 
+// access array element
+
+{
+   int[] myArr = {2, 4, 6, 8, 10};
+  
+   // access first element -- 0th index
+   System.out.println(myArr[0]);           
+  
+   // access second element -- 1st index
+   System.out.println(myArr[1]);
+}
+
+
+
