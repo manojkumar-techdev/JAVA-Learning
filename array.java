@@ -81,3 +81,11 @@
    }
 }
 
+
+// create and initialize array at same time
+
+{
+   // create and initialize array at same time
+   int[] numbers = {10, 20, 30, 40, 50};
+}
+
