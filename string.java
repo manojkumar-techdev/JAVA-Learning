@@ -65,3 +65,15 @@ public class Main {
         System.out.println(message);
     }
 }
+
+
+
+// initializing the string with a value
+
+public class Main {
+    public static void main(String[] args) {
+        
+        message = "Gupta";
+        System.out.println(message);
+    }
+}
