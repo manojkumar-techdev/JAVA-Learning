@@ -32,3 +32,21 @@ public class Main {
 
     }
 }
+
+
+
+// string pool
+
+public class Main {
+    public static void main(String[] args) {
+        
+        // string pool -- string literal uses String Pool
+        String m1 = "Manoj";
+
+        // new String() -- creates a new object in heap memory
+        String m2 = new String("Manoj");
+
+        // == compare object reference
+        System.out.println(m1 == m2);
+    }
+}
