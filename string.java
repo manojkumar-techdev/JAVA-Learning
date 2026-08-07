@@ -48,5 +48,20 @@ public class Main {
 
         // == compare object reference
         System.out.println(m1 == m2);
+
+        // .equals() compares string content
+        System.out.println(m1.equals(m2));
+    }
+}
+
+
+
+// declaring a String variable without initializing
+
+public class Main {
+    public static void main(String[] args) {
+        
+        String message;
+        System.out.println(message);
     }
 }
