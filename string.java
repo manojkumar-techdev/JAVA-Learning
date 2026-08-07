@@ -77,3 +77,14 @@ public class Main {
         System.out.println(message);
     }
 }
+
+
+
+// declaring and initializing in one step 
+public class Main {
+    public static void main(String[] args) {
+        
+        String message1 = "Kumar";
+        System.out.println(message1);
+    }
+}
