@@ -18,3 +18,17 @@ public class Main {
         System.out.println(emptyString);
     }
 }
+
+
+
+// s1 and s2 refer to the same "Manoj" object in String pool
+
+public class Main {
+    public static void main(String[] args) {
+        
+        String s1 = "Manoj";
+        String s2 = "Manoj";
+        System.out.println(s1 == s2);
+
+    }
+}
