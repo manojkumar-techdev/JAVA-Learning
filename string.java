@@ -81,10 +81,25 @@ public class Main {
 
 
 // declaring and initializing in one step 
+
 public class Main {
     public static void main(String[] args) {
         
         String message1 = "Kumar";
         System.out.println(message1);
+    }
+}
+
+
+
+// concatenation
+
+public class Main {
+    public static void main(String[] args) {
+        
+        String str1 = "Manoj";
+        String str2 = "Kumar";
+        String result = str1 + " " + str2;
+        System.out.println(result);
     }
 }
